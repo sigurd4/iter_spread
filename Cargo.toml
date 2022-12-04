@@ -1,0 +1,12 @@
+[package]
+name = "iter_spread"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Provides a trait for spreading iterator items across a vector or an array"
+repository = "https://github.com/sigurd4/iter_spread"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+array-init = "2.0.1"
